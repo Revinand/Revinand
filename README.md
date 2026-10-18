@@ -2,7 +2,7 @@
 
 ## About me
 
-With 15+ years of software engineering experience, I develop high-load web platforms, backend services, and blockchain systems. My work spans frontend architecture, API development, and the integration of web applications with blockchain infrastructure, using Go, JavaScript, TypeScript, and React.
+With 15+ years of software engineering experience, I develop high-load web platforms, backend services, and blockchain systems. My work spans software architecture, API development, and the integration of web applications with blockchain infrastructure, using Go, JavaScript, TypeScript, and React.
 
 I combine hands-on development with technical leadership, with a focus on performance, reliability, and maintainable architecture. I work across application layers, from user interfaces and service APIs to transaction flows and blockchain integrations.
 
