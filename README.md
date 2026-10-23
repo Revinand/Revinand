@@ -1,19 +1,50 @@
-# Hi, I'm Mikhail Grechannikov
+# Mikhail Grechannikov
 
-## About me
+**Senior IT Engineer · Backend architecture, blockchain & enterprise AI**
 
-With 15+ years of software engineering experience, I develop high-load web platforms, backend services, and blockchain systems. My work spans software architecture, API development, and the integration of web applications with blockchain infrastructure, using Go, JavaScript, TypeScript, and React.
+[LinkedIn](https://www.linkedin.com/in/mikhail-grechannikov-6704a686/) · [Upwork](https://www.upwork.com/freelancers/~01596449f1ebed666e) · [Ethereum Magicians](https://ethereum-magicians.org/u/revinand/summary)
 
-I combine hands-on development with technical leadership, with a focus on performance, reliability, and maintainable architecture. I work across application layers, from user interfaces and service APIs to transaction flows and blockchain integrations.
+I am a software engineer with 17+ years of experience building high-load backend services, custom blockchain systems, and AI applications for enterprise clients. I design and implement systems in Rust, Go, C++, Solidity, and Python, with experience across web applications, decentralized protocols, and infrastructure.
 
-**Experience:** Quantcast, Airbnb, Iconosquare, CoinPayments
+My work combines hands-on engineering with technical leadership. I focus on architecture, performance, and reliability, from low-level components and transaction flows to production AI systems.
 
-## ⚡ Projects
+**Experience:** DevLab Co. Ltd., MDEX, Biswap, CoinPayments, Iconosquare, Airbnb, Proarise LLC, Quantcast.
 
-[**Agent Commerce Gateway**](https://github.com/devlab-group/agent-commerce) — A self-hosted, non-custodial gateway that lets AI agents discover, call, and pay for existing APIs. Built in TypeScript with MCP and x402 support.
+## Engineering focus
 
-[**Self-Hosted RWA Tokenization Platform**](https://github.com/devlab-group/rwa-platform-evm) — A self-hosted platform for tokenizing real-world assets on EVM blockchains, with auditor-authorized issuance, permissioned transfers, and on-chain redemption. Built with Solidity, Go, and React.
+- **AI systems:** Autonomous agent workflows, multi-agent orchestration, retrieval pipelines, and secure LLM infrastructure. My work includes GraphRAG, Corrective RAG, and Agentic RAG, with evaluation, tracing, guardrails, and cost monitoring.
+- **Blockchain and backend:** Custom L1/L2 protocols, EVM applications, smart contract audits, cross-chain bridges, exchange infrastructure, and trading, arbitrage, and MEV bots.
+- **Applications and infrastructure:** Web interfaces and APIs, data storage, cloud deployments, and delivery pipelines, using TypeScript, JavaScript, React, AWS, and Kubernetes.
 
-## Contact
+## Open-source contributions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-grechannikov-6704a686/)
+| Organization / repository | Stars | Contribution | Link |
+| :--- | ---: | :--- | :--- |
+| **[redux-saga](https://github.com/redux-saga)** / [redux-saga](https://github.com/redux-saga/redux-saga) | 22,409 | Correct a documentation typo. | [#1372](https://github.com/redux-saga/redux-saga/pull/1372) |
+| **[LangChain](https://github.com/langchain-ai)** / [langchainjs](https://github.com/langchain-ai/langchainjs) | 18,293 | Message trimming: keep one partial message with the correct leading or trailing content blocks. | [#12013](https://github.com/langchain-ai/langchainjs/pull/12013) |
+| **[Ethereum](https://github.com/ethereum)** / [EIPs](https://github.com/ethereum/EIPs) | 14,041 | Correct a typo in the EIP-777 specification. | [#2513](https://github.com/ethereum/EIPs/pull/2513) |
+| **[Data Privacy Stack](https://github.com/data-privacy-stack)** / [presidio](https://github.com/data-privacy-stack/presidio) | 11,471 | Batch analysis: pass supplied context and parent keys to scalar values in nested dictionaries. | [#2385](https://github.com/data-privacy-stack/presidio/pull/2385) |
+| **[AWS Labs](https://github.com/awslabs)** / [mcp](https://github.com/awslabs/mcp) | 9,821 | HealthOmics MCP server: parse date filters without timezone offsets as UTC and preserve explicit offsets. | [#4802](https://github.com/awslabs/mcp/pull/4802) |
+| **[x402 Foundation](https://github.com/x402-foundation)** / [x402](https://github.com/x402-foundation/x402) | 6,752 | Go server: resolve payment schemes through wildcard network registrations while preserving exact-match precedence. | [#3862](https://github.com/x402-foundation/x402/pull/3862) |
+| **[wevm](https://github.com/wevm)** / [viem](https://github.com/wevm/viem) | 3,594 | ABI overload resolution: handle array element sizes containing zero and detect ambiguous array types. | [#5263](https://github.com/wevm/viem/pull/5263) |
+| **[i-am-bee](https://github.com/i-am-bee)** / [beeai-framework](https://github.com/i-am-bee/beeai-framework) | 3,443 | Prompt templates: prevent fork customizers from modifying the original template. | [#1817](https://github.com/i-am-bee/beeai-framework/pull/1817) |
+| **[NVIDIA](https://github.com/NVIDIA)** / [NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | 2,671 | MCP tool discovery: support tuple-array input schemas. | [#2391](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2391) |
+| **[MyEtherWallet](https://github.com/MyEtherWallet)** / [etherwallet](https://github.com/MyEtherWallet/etherwallet) | 2,320 | Add ETBS to the default token list. | [#918](https://github.com/MyEtherWallet/etherwallet/pull/918) |
+| **[Model Context Protocol](https://github.com/modelcontextprotocol)** / [php-sdk](https://github.com/modelcontextprotocol/php-sdk) | 1,637 | Schema generation: preserve nullable and union fields inside array shapes. | [#613](https://github.com/modelcontextprotocol/php-sdk/pull/613) |
+| **[tiiuae](https://github.com/tiiuae)** / [sbomnix](https://github.com/tiiuae/sbomnix) | 341 | Read source URLs from Nix structured attributes; correct SPDX download locations and homepage URLs. | [#342](https://github.com/tiiuae/sbomnix/pull/342), [#343](https://github.com/tiiuae/sbomnix/pull/343), [#344](https://github.com/tiiuae/sbomnix/pull/344) |
+| **[Docling](https://github.com/docling-project)** / [docling-core](https://github.com/docling-project/docling-core) | 296 | DocTags parsing: preserve table header and section flags when loading OTSL cells. | [#910](https://github.com/docling-project/docling-core/pull/910) |
+| **[wevm](https://github.com/wevm)** / [ox](https://github.com/wevm/ox) | 229 | ABI argument matching: support array element sizes containing zero and check array-type ambiguity. | [#523](https://github.com/wevm/ox/pull/523) |
+
+## Projects
+
+**[MCP Scanner](https://github.com/devlab-group/mcp-scanner)** — A security scanner for MCP servers, source code, and packages. It checks protocol behavior, authentication, prompt injection, tool poisoning, and dependency vulnerabilities, reporting findings alongside gaps in analysis coverage. Supports SARIF output and severity-based CI checks. *Go · MCP · Security analysis · SARIF.*
+
+**[Agent Commerce Gateway](https://github.com/devlab-group/agent-commerce)** — A self-hosted gateway that exposes existing APIs to AI agents through MCP and supports payments through x402. Payments go directly to the merchant wallet; the gateway does not hold funds or private keys. *TypeScript · MCP · x402.*
+
+**[RWA Tokenization Platform](https://github.com/devlab-group/rwa-platform-evm)** — A self-hosted platform for issuing and managing permissioned tokens backed by real-world assets. It combines auditor-authorized minting and burning, transfer controls, and on-chain redemption with a Go backend and React administration interface. *Solidity · Go · React.*
+
+## Standards and community
+
+I am an active participant in the [Ethereum Magicians](https://ethereum-magicians.org/) community.
+
+**[ERC-8409: Signed Service Payment Quotes](https://ethereum-magicians.org/t/erc-8409-signed-service-payment-quotes/29577)** — Contributed to this draft ERC proposal for service payment quotes signed with EIP-712. The proposal separates a provider's quoted terms from the payer's authorization and payment settlement.
