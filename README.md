@@ -20,6 +20,7 @@ My work combines hands-on engineering with technical leadership. I focus on arch
 
 | Organization / repository | Stars | Contribution | Link |
 | :--- | ---: | :--- | :--- |
+| **[LangGenius](https://github.com/langgenius)** / [dify](https://github.com/langgenius/dify) | 159,721 | Custom tools: send JSON request bodies as JSON when the content type has parameters such as a charset. | [#44908](https://github.com/langgenius/dify/pull/44908) |
 | **[deepset](https://github.com/deepset-ai)** / [haystack](https://github.com/deepset-ai/haystack) | 26,858 | Tools created from functions: leave variadic arguments out of the generated parameter schema. | [#13432](https://github.com/deepset-ai/haystack/pull/13432) |
 | **[redux-saga](https://github.com/redux-saga)** / [redux-saga](https://github.com/redux-saga/redux-saga) | 22,409 | Correct a documentation typo. | [#1372](https://github.com/redux-saga/redux-saga/pull/1372) |
 | **[LangChain](https://github.com/langchain-ai)** / [langchainjs](https://github.com/langchain-ai/langchainjs) | 18,293 | Message trimming: keep one partial message with the correct leading or trailing content blocks. | [#12013](https://github.com/langchain-ai/langchainjs/pull/12013) |
