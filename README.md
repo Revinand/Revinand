@@ -21,7 +21,9 @@ My work combines hands-on engineering with technical leadership. I focus on arch
 | Organization / repository | Stars | Contribution | Link |
 | :--- | ---: | :--- | :--- |
 | **[LangGenius](https://github.com/langgenius)** / [dify](https://github.com/langgenius/dify) | 159,721 | Custom tools: send JSON request bodies as JSON when the content type has parameters such as a charset. | [#44908](https://github.com/langgenius/dify/pull/44908) |
+| **[Ethereum](https://github.com/ethereum)** / [go-ethereum](https://github.com/ethereum/go-ethereum) | 51,451 | Prestate tracer diff mode: stop reporting nonexistent accounts as modified with a zero code hash. | [#36034](https://github.com/ethereum/go-ethereum/pull/36034) |
 | **[deepset](https://github.com/deepset-ai)** / [haystack](https://github.com/deepset-ai/haystack) | 26,858 | Tools created from functions: leave variadic arguments out of the generated parameter schema. | [#13432](https://github.com/deepset-ai/haystack/pull/13432) |
+| **[promptfoo](https://github.com/promptfoo)** / [promptfoo](https://github.com/promptfoo/promptfoo) | 26,559 | Project init: create the project in the given absolute directory instead of under the current one. | [#12013](https://github.com/promptfoo/promptfoo/pull/12013) |
 | **[redux-saga](https://github.com/redux-saga)** / [redux-saga](https://github.com/redux-saga/redux-saga) | 22,409 | Correct a documentation typo. | [#1372](https://github.com/redux-saga/redux-saga/pull/1372) |
 | **[LangChain](https://github.com/langchain-ai)** / [langchainjs](https://github.com/langchain-ai/langchainjs) | 18,293 | Message trimming: keep one partial message with the correct leading or trailing content blocks. | [#12013](https://github.com/langchain-ai/langchainjs/pull/12013) |
 | **[Ethereum](https://github.com/ethereum)** / [EIPs](https://github.com/ethereum/EIPs) | 14,041 | Correct a typo in the EIP-777 specification. | [#2513](https://github.com/ethereum/EIPs/pull/2513) |
