@@ -8,7 +8,7 @@ I am a software engineer with 17+ years of experience building high-load backend
 
 My work combines hands-on engineering with technical leadership. I focus on architecture, performance, and reliability, from low-level components and transaction flows to production AI systems.
 
-**Experience:** DevLab Co. Ltd., MDEX, Biswap, CoinPayments, Iconosquare, Airbnb, Proarise LLC, Quantcast.
+**Experience:** DevLab, MDEX, Biswap, CoinPayments, Iconosquare, Airbnb, Proarise LLC, Quantcast.
 
 ## Engineering focus
 
